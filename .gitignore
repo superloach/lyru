@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# vscode
+.vscode/
+
+# dlv artifact binary?
+__debug_bin
